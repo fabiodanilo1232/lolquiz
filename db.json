@@ -4,7 +4,7 @@
     "description": "Teste os seus conhecimentos sobre League of Legends",
     "questions": [
       {
-        "image": "https://lh3.googleusercontent.com/proxy/1jl_i_DjHBzqXmAxCApdFQmouWf_NyLH42_Ft6EyoWfnIMWm8LaCX-gSXR_rt37WN88sQjmxH_aZ5KOSeqRrL53f792AMH3uYVkv2J_MbMIG9FdF5ks_gdYOUKurLAZkFb0mqcBPGi4YwG0B4E4SnKbR",
+        "image": "https://s2.glbimg.com/7IeW1KmYA-o8tmz7m-Ofa9Kpwig=/0x0:984x554/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/C/9/B5eOGwRyueCc6xAQQNEw/league-of-legends.jpg",
         "title": "Em que ano o jogo foi lançado?",
         "description": "Essa é pra aquecer",
         "answer": 2,
@@ -17,12 +17,50 @@
       },
       {
         "image": "https://s2.glbimg.com/jTBOdkhQR1xdTg6T1StFHcx_O1E=/0x0:1215x717/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/P/G/mGkQ6ZQsarjfMdzM9K3Q/lux-splash-art.jpg",
-        "title": "Quem é o irmão de Lux",
+        "title": "Quem é o irmão de Lux?",
         "description": "Tá na cara",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
            "Ezreal",
-           "Garen"
+           "Garen",
+           "Darius",
+           "Jarvan IV"
+        ]
+      },
+      {
+        "image": "https://universe-meeps.leagueoflegends.com/v1/assets/images/Classic_Irelia_Splash.jpg",
+        "title": "Na invasão de Ionia, quem salvou a Irelia?",
+        "description": "Já leu as histórias né?",
+        "answer": 0,
+        "alternatives": [
+           "Soraka",
+           "Lulu",
+           "Sona",
+           "Seraphine"
+        ]
+      },
+      {
+        "image": "https://lolzin.com.br/wp-content/uploads/2019/03/MissFortune.jpg",
+        "title": "Qual o nome verdadeiro de Miss Fortune?",
+        "description": "Você já deve ter visto a resposta na tela de loading do jogo",
+        "answer": 3,
+        "alternatives": [
+           "Joana",
+           "Ana",
+           "Maria",
+           "Sarah"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/81/89/7d/81897de544374d8203346c5ea04bcaec.jpg",
+        "title": "Quem matou Jarvan I?",
+        "description": "Ele usa a coroa do rei no jogo",
+        "answer": 2,
+        "alternatives": [
+           "Swain",
+           "Shaco",
+           "Sion",
+           "Samira"
         ]
       }
     ],

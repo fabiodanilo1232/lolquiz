@@ -3,11 +3,12 @@ import styled from 'styled-components';
 
 // src/components/Footer/index.js
 const FooterWrapper = styled.footer`
-  background-color: #00000070;
+  background-color: gray;
   padding: 20px;
   display: flex;
   align-items: center;
   border-radius: 4px; 
+  opacity: 70%;
   img {
     width: 58px;
     margin-right: 23px;
