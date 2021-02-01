@@ -65,7 +65,10 @@
       }
     ],
     "external": [
-      ""
+      "https://onepiece-quiz-imersao-react-next-js.marioandre01.vercel.app/",
+      "https://imersao-react-nextjs-git-main.matheusbronca.vercel.app/",
+      "https://pokequizbr.williams25.vercel.app/",
+      "https://aluraquiz-base.f3ferreira.vercel.app/"
     ],
     "theme": {
       "colors": {
